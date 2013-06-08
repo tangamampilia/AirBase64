@@ -3,7 +3,7 @@ Base64Encoder
 
 ANE for Base64 Support (iOS &amp; Air Simulator)
 
-I created this ANE because decoding and encoding ByteArray or BitmapData to Base64 is ver expensive. It should work on iOS and Air Simulator. I'm working on Android and Blackberry version.
+I created this ANE because decoding and encoding ByteArray or BitmapData to Base64 is very slow. It should work on iOS and Air Simulator. I'm working on Android and Blackberry version.
 
 
 Installation
