@@ -15,7 +15,7 @@ The ANE binary (Base64Encoder.ane) is located in the *bin* folder. You should ad
 Build script
 ---------
 
-If you need to edit the extension source code and/or recompile it, you will find an ant build script (build.xml) in the *build* folder. I also added a shell.sh script to make it easy. You just need to edit the Flash Builder path:
+If you need to edit the extension source code and/or recompile it, you will find a shell.sh script to make it easy and you just need to edit the Flash Builder path.
 
 
 Author
