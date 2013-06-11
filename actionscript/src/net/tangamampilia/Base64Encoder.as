@@ -38,7 +38,7 @@ package net.tangamampilia {
 		public function Base64Encoder() {
 			
 			if (!_instance) {
-				_context = ExtensionContext.createExtensionContext(EXTENSION_ID, null);
+				_context = ExtensionContext.createExtensionContext(EXTENSION_ID, "");
 				if (!_context) {
 					throw Error("ERROR - Extension context is null. Please check if extension.xml is setup correctly.");
 					return;
@@ -53,7 +53,7 @@ package net.tangamampilia {
 		
 		/** BitmapEncoder is supported on iOS and Air. I'm working on Android device. */
 		public static function get isSupported() : Boolean {
-			var supported:Array = ["iOS", "Adobe"];
+			var supported:Array = ["iOS", "Android", "Macintosh", "Windows"];
 			for (var i:int = 0; i<supported.length; i++) {
 				if (Capabilities.manufacturer.indexOf(supported[i]) != -1) {
 					return true;
@@ -63,8 +63,14 @@ package net.tangamampilia {
 		}
 		
 		
-		public static function get isDesktopSimulator() : Boolean {
-			return Capabilities.manufacturer.indexOf("Adobe") != -1;
+		private static function get _isDesktopSimulator() : Boolean {
+			var supported:Array = ["Macintosh", "Windows"];
+			for (var i:int = 0; i<supported.length; i++) {
+				if (Capabilities.manufacturer.indexOf(supported[i]) != -1) {
+					return true;
+				}
+			}
+			return false;
 		}
 		
 		
@@ -86,7 +92,7 @@ package net.tangamampilia {
 			data.compress();
 			var base64:String;
 			
-			if (Base64Encoder.isDesktopSimulator) {
+			if (Base64Encoder._isDesktopSimulator) {
 				base64 = Base64Encoder._airEncodeBase64(data);
 			} else {
 				var native:Base64Encoder =  Base64Encoder.getInstance();
@@ -109,7 +115,7 @@ package net.tangamampilia {
 			
 			var bytes:ByteArray;
 			
-			if (Base64Encoder.isDesktopSimulator) {
+			if (Base64Encoder._isDesktopSimulator) {
 				bytes = Base64Encoder._airDecodeBase64(data);
 			} else {
 				var native:Base64Encoder =  Base64Encoder.getInstance();
@@ -134,7 +140,7 @@ package net.tangamampilia {
 			var bytes:ByteArray = Base64Encoder._airEncodeBitmapData(data);
 			var base64:String;
 			
-			if (Base64Encoder.isDesktopSimulator) {
+			if (Base64Encoder._isDesktopSimulator) {
 				base64 = Base64Encoder._airEncodeBase64(bytes);
 			} else {
 				var native:Base64Encoder =  Base64Encoder.getInstance();
@@ -156,12 +162,18 @@ package net.tangamampilia {
 			}
 			
 			var bytes:ByteArray;
-			if (Base64Encoder.isDesktopSimulator) {
+			if (Base64Encoder._isDesktopSimulator) {
 				bytes =  Base64Encoder._airDecodeBase64(data);
 			} else {
 				var native:Base64Encoder =  Base64Encoder.getInstance();
 				bytes = native._context.call("Base64EncoderDecode", data) as ByteArray;
+				//var s:String = native._context.call("Base64EncoderDecode", data) as String;
+				//bytes = new ByteArray();
+				//trace (s)
+				//bytes.writeUTFBytes(s);
 			}
+			//bytes.position = 0;
+			//trace (bytes.readUTF());
 			
 			var bitmapData:BitmapData = Base64Encoder._airDecodeBitmapData(bytes);
 			return bitmapData;
