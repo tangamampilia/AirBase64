@@ -1,7 +1,7 @@
 Base64Encoder
 =============
 
-ANE for Base64 Support (iOS &amp; Air Simulator)
+ANE for Base64 Support (iOS, Android &amp; Destkop)
 
 I created this ANE because decoding and encoding ByteArray or BitmapData to Base64 on mobile devices is very slow. It should work on iOS, Android and Desktop. I'm working on Blackberry version.
 
@@ -17,9 +17,8 @@ Usage
 
 Just call the static methods
 
-	Encode / Decode ByteArray
+Encode / Decode ByteArray
 
-    ```actionscript
     
     var myByteArray:ByteArray = new ByteArray();
     myByteArray.writeUTFBytes("I need some tacos!");
@@ -30,11 +29,9 @@ Just call the static methods
     var myNewByteArray:ByteArray = Base.decodeByteArray(base64str);
     trace (myNewByteArray.readUTF());
     	
-    ```
     
-    Encode / Decode BitmapData
+Encode / Decode BitmapData
 
-    ```actionscript
     
     var myBitmapData:BitmapData = new BitmapData(100, 100);
     
@@ -43,7 +40,6 @@ Just call the static methods
     
     var myNewBitmapData:ByteArray = Base.decodeBitmapData(base64str);
     	
-    ```
 
 
 Build script
