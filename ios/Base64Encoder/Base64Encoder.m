@@ -1,5 +1,5 @@
 //
-//  Base64Encoder.m
+//  Base64Encoder.h
 //  Base64Encoder
 //
 //  Created by Daniel Fernandez on 6/8/13.
@@ -12,6 +12,18 @@ FREContext Base64EncoderCtx = nil;
 
 @implementation Base64Encoder
 
+
+//
+// base64EncodedString
+//
+// Encodes the base64 NSData in the data to a newly NSString
+//
+//  @params
+//  data - the NSData for the encode
+//
+//  @return
+//  the encoded NSString.
+//
 + (NSString *)base64EncodedString:(NSData *)data {
 	
     size_t outputLength;
@@ -23,6 +35,18 @@ FREContext Base64EncoderCtx = nil;
     
 }
 
+
+//
+// dataFromBase64String
+//
+// Decodes the base64 NSString in the aString to a newly NSData
+//
+//  @params
+//  aString - the NSString for the decode
+//
+//  @return
+//  the decoded NSData.
+//
 + (NSData *)dataFromBase64String:(NSString *)aString {
     
 	NSData *data = [aString dataUsingEncoding:NSASCIIStringEncoding];
@@ -37,13 +61,27 @@ FREContext Base64EncoderCtx = nil;
 @end
 
 
-/* Function which encode a ByteArray */
+//
+// Base64EncoderEncode
+//
+// Function which encode a ByteArray
+//
+//  @params
+//  FREContext ctx, void* funcData, uint32_t argc, FREObject argv[]
+//
+//  @return
+//  the encoded ByteArray as String.
+//
 FREObject Base64EncoderEncode(FREContext ctx, void* funcData, uint32_t argc, FREObject argv[]) {
-
+    
+    // Declares vars
     FREObject base64;
     FREByteArray byteArray;
     
+    // Get the ByteArray into a native object
     FREAcquireByteArray(argv[0], &byteArray);
+    
+    // 
     NSData *byteData = [NSData dataWithBytes:(void *)byteArray.bytes length:(NSUInteger)byteArray.length];
     NSString *base64str = [Base64Encoder base64EncodedString:byteData];
     FRENewObjectFromUTF8(strlen([base64str UTF8String]), (const uint8_t *)[base64str UTF8String], &base64);
@@ -53,7 +91,17 @@ FREObject Base64EncoderEncode(FREContext ctx, void* funcData, uint32_t argc, FRE
 }
 
 
-/* Function which decode a Base64 string */
+//
+// Base64EncoderDecode
+//
+// Function which decode a Base64 string
+//
+//  @params
+//  FREContext ctx, void* funcData, uint32_t argc, FREObject argv[]
+//
+//  @return
+//  the decoded String as ByteArray.
+//
 FREObject Base64EncoderDecode(FREContext ctx, void* funcData, uint32_t argc, FREObject argv[]) {
     
     uint32_t base64strLength;
