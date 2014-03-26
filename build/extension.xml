@@ -16,26 +16,31 @@
 //  
 //////////////////////////////////////////////////////////////////////////////////////-->
 
-<extension xmlns="http://ns.adobe.com/air/extension/3.1">
-    <id>net.tangamampilia.Base64Encoder</id>
+<extension xmlns="http://ns.adobe.com/air/extension/4.0">
+    <id>net.tangamampilia.AirBase64</id>
     <versionNumber>1.0</versionNumber>
     <platforms>
         <platform name="iPhone-ARM">
             <applicationDeployment>
-                <nativeLibrary>libBase64Encoder.a</nativeLibrary>
-                <initializer>Base64EncoderInitializer</initializer>
-                <finalizer>Base64EncoderFinalizer</finalizer>
+                <nativeLibrary>libAirBase64.a</nativeLibrary>
+                <initializer>AirBase64Initializer</initializer>
+                <finalizer>AirBase64Finalizer</finalizer>
             </applicationDeployment>
         </platform>
-        
+        <platform name="iPhone-x86">
+        	<applicationDeployment>
+            	<nativeLibrary>libAirBase64.a</nativeLibrary>
+            	<initializer>AirBase64Initializer</initializer> 
+            	<finalizer>AirBase64Finalizer</finalizer>
+			</applicationDeployment>
+		</platform>
         <platform name="Android-ARM"> 
             <applicationDeployment> 
-                <nativeLibrary>libBase64Encoder.jar</nativeLibrary> 
-                <initializer>net.tangamampilia.Base64Encoder</initializer> 
-                <finalizer>net.tangamampilia.Base64Encoder</finalizer> 
+                <nativeLibrary>libAirBase64.jar</nativeLibrary> 
+                <initializer>net.tangamampilia.AirBase64</initializer> 
+                <finalizer>net.tangamampilia.AirBase64</finalizer> 
             </applicationDeployment>
         </platform> 
-        
         <platform name="default"> 
             <applicationDeployment/> 
         </platform>

@@ -1,0 +1,237 @@
+TAirBase64
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a normal armv7s
+cLibtool /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a normal armv7
+cCreateUniversalBinary /Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a normal armv7\ armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000528D006D0000000000000110
+t1384972397
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c0000000052408C6A000000000000036B
+t1379961962
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526E84C900000000000001A0
+t1382974665
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526E84D00000000000A92BC0
+t1382974672
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052408CF90000000000000AC9
+t1379962105
+s2761
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64-Prefix.pch
+c00000000532275E400000000000000B6
+t1394767332
+s182
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m
+c00000000532270FC000000000000117D
+t1394766076
+s4477
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m
+c0000000051B288EC0000000000002229
+t1370654956
+s8745
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.LinkFileList
+c00000000532279810000000000000148
+t1394768257
+s328
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.o
+t1394768262
+s14512
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.o
+t1394768262
+s10788
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a
+t1394768263
+s25880
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.LinkFileList
+c0000000053227982000000000000014A
+t1394768258
+s330
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.o
+t1394768262
+s14512
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.o
+t1394768262
+s10804
+
+N/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a
+t1394768263
+s25896
+
+N/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a
+t2
+s0
+
+N/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.pch
+t1394768261
+s85536
+
+N/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.pch
+t1394768261
+s85512
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7a367f01b1d2b841^23680402b1d2b841^---0#1#1#--18"Check dependencies36"1C34CA37-4934-4C38-A238-015A4E29F48D-
+
+CCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416461061.989014
+e416461062.874176
+r1
+xCompileC
+xbuild/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.o
+x/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.h
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/FlashRuntimeExtensions.h
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m185"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.o AirBase64/AirBase64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compileraa9dfd05b1d2b841^53cadf06b1d2b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m0000000000000000^3825"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.o AirBase64/AirBase64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-generated-files.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-own-target-headers.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-all-target-headers.hmap -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-project-headers.hmap -I/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources/armv7 -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources -F/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos -include /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch -MMD -MT dependencies -MF /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.d --serialize-diagnostics /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.dia -c /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m -o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.o36"AE6C9638-6D50-4110-8EFF-639E531095A7-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416461061.989013
+e416461062.908649
+r1
+xCompileC
+xbuild/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.o
+x/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m193"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.o AirBase64/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdeacfd05b1d2b841^2596e806b1d2b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m0000000000000000^3849"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.o AirBase64/NSData+Base64.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-generated-files.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-own-target-headers.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-all-target-headers.hmap -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-project-headers.hmap -I/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources/armv7 -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources -F/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos -include /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch -MMD -MT dependencies -MF /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.d --serialize-diagnostics /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.dia -c /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m -o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/NSData+Base64.o36"3B77D51E-6DA6-4690-99F0-62EEBAE5BFAD-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416461061.989166
+e416461062.908175
+r1
+xCompileC
+xbuild/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.o
+x/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.h
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/FlashRuntimeExtensions.h
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m187"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.o AirBase64/AirBase64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler2aa7fd05b1d2b841^118be806b1d2b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m0000000000000000^3832"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.o AirBase64/AirBase64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-generated-files.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-own-target-headers.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-all-target-headers.hmap -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-project-headers.hmap -I/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources/armv7s -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources -F/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos -include /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch -MMD -MT dependencies -MF /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.d --serialize-diagnostics /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.dia -c /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64.m -o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.o36"26AF8102-DD1F-40B9-94D2-F70483EC0BCC-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CCompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416461061.991012
+e416461062.908116
+r1
+xCompileC
+xbuild/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.o
+x/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m195"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.o AirBase64/NSData+Base64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler61fffd05b1d2b841^1f84e806b1d2b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m0000000000000000^3856"CompileC build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.o AirBase64/NSData+Base64.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-generated-files.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-own-target-headers.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-all-target-headers.hmap -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-project-headers.hmap -I/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources/armv7s -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources -F/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos -include /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch -MMD -MT dependencies -MF /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.d --serialize-diagnostics /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.dia -c /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/NSData+Base64.m -o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/NSData+Base64.o36"AC9D753C-1A40-4E9F-BDDF-BC63953AF856-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CCreateUniversalBinary /Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a normal armv7\ armv7s
+s416461063.252034
+e416461063.439686
+r1
+xCreateUniversalBinary
+x/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"Create universal binary /Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a183"CreateUniversalBinary /Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a normal armv7\ armv7sc9e44007b1d2b841^b88f7007b1d2b841^---0#0#1#-19%DVTDocumentLocation2@156"file://localhost/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a0038642edfffdf42^762"CreateUniversalBinary /Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a normal armv7\ armv7s    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    libtool -static /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a -o /Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/libAirBase64.a36"C6CE2629-2877-4FF1-8B12-927CFD9375C4-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CLibtool /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a normal armv7
+s416461062.917185
+e416461063.243343
+r1
+xLibtool
+x/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Libtool build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a normal armv7109"Libtool build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a normal armv7a12deb06b1d2b841^c1553e07b1d2b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--980"Libtool build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a normal armv7    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos -filelist /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/AirBase64.LinkFileList -ObjC -framework Foundation -o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7/libAirBase64.a36"FB5F1057-0824-496E-BAEE-DDBE03101516-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CLibtool /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a normal armv7s
+s416461062.917172
+e416461063.243364
+r1
+xLibtool
+x/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Libtool build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a normal armv7s111"Libtool build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a normal armv7s552feb06b1d2b841^575e3e07b1d2b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--985"Libtool build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a normal armv7s    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos -filelist /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/AirBase64.LinkFileList -ObjC -framework Foundation -o /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/Objects-normal/armv7s/libAirBase64.a36"327008DA-721F-4375-9421-C57879514F8D-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416461058.031659
+e416461061.980078
+r1
+xProcessPCH
+x/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.pch
+xAirBase64/AirBase64-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile AirBase64/AirBase64-Prefix.pch318"ProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler309b0802b1d2b841^310c0006b1d2b841^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64-Prefix.pch0000000000000000^3895"ProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-generated-files.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-own-target-headers.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-all-target-headers.hmap -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-project-headers.hmap -I/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources/armv7 -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources -F/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.d -c /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64-Prefix.pch -o /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-aplwzskrfyqtkqfmmrdvtckkipjd/AirBase64-Prefix.pch.pch36"83107A9C-F62A-45D9-A63B-64BA8DCBAD6A-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+
+CProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416461058.033759
+e416461061.980078
+r1
+xProcessPCH
+x/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.pch
+xAirBase64/AirBase64-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile AirBase64/AirBase64-Prefix.pch319"ProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler38110902b1d2b841^1d200006b1d2b841^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64-Prefix.pch0000000000000000^3898"ProcessPCH /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.pch AirBase64/AirBase64-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-generated-files.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-own-target-headers.hmap -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-all-target-headers.hmap -iquote /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/AirBase64-project-headers.hmap -I/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources/armv7s -I/Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/build/AirBase64.build/Debug-iphoneos/AirBase64.build/DerivedSources -F/Users/tangamampilia/Library/Developer/Xcode/DerivedData/AirBase64-cssqiihlhydihvffncbmuesxqxtv/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.d -c /Users/tangamampilia/Desktop/Chucherias/Trabajos/Eclipse/Ane/AirBase64/ios2/AirBase64/AirBase64-Prefix.pch -o /var/folders/cr/jypn4jm1493912yb8dl5wvrh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AirBase64-Prefix-gkrqnpgmgdpydbeddouuwiytfjez/AirBase64-Prefix.pch.pch36"82E60AF6-EBFD-453E-8178-294F194E52F6-
+b0E4C45A1-BB7F-4917-B020-F2C43012C9EC
+

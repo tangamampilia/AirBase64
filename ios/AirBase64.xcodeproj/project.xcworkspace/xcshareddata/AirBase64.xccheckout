@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C1B2F3F-00CC-445A-9353-48DF762EAE9F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AirBase64</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C153E7F3-481F-49E8-A317-EE06BBFEBAFE</key>
+		<string>https://github.com/tangamampilia/Base64Encoder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios2/AirBase64.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C153E7F3-481F-49E8-A317-EE06BBFEBAFE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tangamampilia/Base64Encoder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C153E7F3-481F-49E8-A317-EE06BBFEBAFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C153E7F3-481F-49E8-A317-EE06BBFEBAFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AirBase64Encoder</string>
+		</dict>
+	</array>
+</dict>
+</plist>

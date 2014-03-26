@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'Base64Encoder' target in the 'Base64Encoder' project
-//
-
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-#endif
