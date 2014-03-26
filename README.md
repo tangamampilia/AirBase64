@@ -1,4 +1,4 @@
-AirBase64Encoder
+AirBase64
 =============
 
 ANE for Base64 Support (iOS, Android &amp; Destkop)
@@ -9,7 +9,7 @@ I created this ANE because decoding and encoding ByteArray or BitmapData to Base
 Installation
 ---------
 
-The ANE binary (AirBase64Encoder.ane) is located in the *bin* folder. You should add it to your application project's Build Path and make sure to package it with your app (more information [here](http://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html)).
+The ANE binary (AirBase64.ane) is located in the *bin* folder. You should add it to your application project's Build Path and make sure to package it with your app (more information [here](http://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html)).
 
 
 Usage
@@ -23,10 +23,10 @@ Encode / Decode ByteArray
     var myByteArray:ByteArray = new ByteArray();
     myByteArray.writeUTFBytes("I need some tacos!");
     
-    var base64str:String = AirBase64Encoder.encodeByteArray(myByteArray);
+    var base64str:String = AirBase64.encodeByteArray(myByteArray);
     trace (base64str);
     
-    var myNewByteArray:ByteArray = AirBase64Encoder.decodeByteArray(base64str);
+    var myNewByteArray:ByteArray = AirBase64.decodeByteArray(base64str);
     trace (myNewByteArray.readUTF());
     	
     
@@ -35,10 +35,10 @@ Encode / Decode BitmapData
     
     var myBitmapData:BitmapData = new BitmapData(100, 100);
     
-    var base64str:String = AirBase64Encoder.encodeBitmapData(myBitmapData);
+    var base64str:String = AirBase64.encodeBitmapData(myBitmapData);
     trace (base64str);
     
-    var myNewBitmapData:ByteArray = AirBase64Encoder.decodeBitmapData(base64str);
+    var myNewBitmapData:ByteArray = AirBase64.decodeBitmapData(base64str);
     	
 
 
